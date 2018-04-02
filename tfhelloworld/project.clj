@@ -6,5 +6,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
 		 [org.tensorflow/tensorflow  "1.6.0"]
 		]
-  :main tfhelloworld.core
+  :main tfhelloworld.core2
 )
